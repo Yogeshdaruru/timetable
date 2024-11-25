@@ -54,8 +54,6 @@
     <td> DE</td>
 </tr>
 
-<tr align ="center">
-    <th bgcolor="white"> 3-5 </th>
 
 </table>
 <br>
