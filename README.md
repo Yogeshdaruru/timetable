@@ -1,6 +1,5 @@
-# timetable
 <html>
-   <title> TIME TABLE </title>
+   TIME TABLE
    <body>
    <center>
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVHM7lQHBY3fMmzXE1m0bYnMg3dsccFDu2g&s"height="100"width="600">
@@ -57,16 +56,6 @@
 
 <tr align ="center">
     <th bgcolor="white"> 3-5 </th>
-    
-    <td>  FREE SLOT</td>
-    <td> FREE SLOT</td>
-    <td> FREE SLOT</td>
-    <td> FREE SLOT </td>
-    <td> FREE SLOT</td>
-    <td> FREE SLOT</td>
-</tr>
-
-</tr>
 
 </table>
 <br>
